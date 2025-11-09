@@ -1,0 +1,2 @@
+Mano folderio turinys:
+- Dokumentas1.txt
